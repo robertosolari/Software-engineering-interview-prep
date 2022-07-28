@@ -18,3 +18,9 @@ Machine Learning Interview Preparation https://www.udacity.com/course/machine-le
 
 Full-Stack Interview Prep https://www.udacity.com/course/full-stack-interview-prep--ud252 (free)
 
+https://www.algoexpert.io/product
+
+https://www.coursera.org/learn/cs-tech-interview
+
+https://www.freecodecamp.org/news/how-to-prepare-for-a-software-developer-interview/
+
