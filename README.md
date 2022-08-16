@@ -24,3 +24,8 @@ https://www.coursera.org/learn/cs-tech-interview
 
 https://www.freecodecamp.org/news/how-to-prepare-for-a-software-developer-interview/
 
+Books:
+
+https://subscription.packtpub.com/book/programming/9781839212062/
+
+https://subscription.packtpub.com/video/web-development/9781800202320
